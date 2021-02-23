@@ -11,5 +11,6 @@ module.exports = {
 				isUsingColorMode: true,
 			},
 		},
+		'gatsby-plugin-typescript',
 	],
 };
